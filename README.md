@@ -14,8 +14,17 @@ Provide a brief introduction about yourself, your background, and your career go
 
 ## Projects
 
-- **Description:** I will be uploading various projects that I made in order to show you my experience.
+I will be uploading various projects that I made in order to show you my experience.
 
+- ### Project 1: [Miracle]
+
+- **Description:** Miracle is the senior project I made during my last year of university. It is a 2D Puzzle RPG that I made using Pygame.
+- **GitHub Repository:** [Link to the GitHub repository]
+
+- ### Project 2: [HeySpotify]
+
+- **Description:** This is a simple program that will listen for the word "Hey Spotify" followed by a song name in order to play that song.
+- **GitHub Repository:** [Link to the GitHub repository]
 
 ## Skills
 
