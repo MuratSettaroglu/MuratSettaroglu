@@ -26,6 +26,11 @@ I will be uploading various projects that I made in order to show you my experie
 - **Description:** This is a simple program that will listen for the word "Hey Spotify" followed by a song name in order to play that song.
 - **GitHub Repository:** [Link to the GitHub repository]
 
+- ### Project 3: [Randomizer]
+
+- **Description:** This is an HTML website that I made simply because I was bored. It uses some Javascript for animations and mostly CSS.
+- **GitHub Repository:** https://github.com/MuratSettaroglu/Randomizer
+
 ## Skills
 
 - **Programming Languages:** Python, Javascript, HTML, CSS
