@@ -19,7 +19,7 @@ I will be uploading various projects that I made in order to show you my experie
 - ### Project 1: [Miracle]
 
 - **Description:** Miracle is the senior project I made during my last year of university. It is a 2D Puzzle RPG that I made using Pygame.
-- **GitHub Repository:** [Link to the GitHub repository]
+- **GitHub Repository:** https://github.com/MuratSettaroglu/Miracle
 
 - ### Project 2: [HeySpotify]
 
